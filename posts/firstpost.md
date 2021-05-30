@@ -1,14 +1,12 @@
 ---
 title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+description: This is a post on My Blog about healthy life style.
 date: 2018-05-01
 tags:
   - another tag
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I am Ola, I love good food and fun. I am a happy citizen of the world. On this blog, I promote tasty, healthy and colorful food as well as other good aspects of life. 
 
 ## Section Header
 
